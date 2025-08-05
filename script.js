@@ -6,7 +6,7 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Typing effect for greeting
-const greetingText = "Happy Birthday! 💖";
+const greetingText = "You know I love you so muchhh 💖";
 const greetingElement = document.querySelector('.greeting');
 let charIndex = 0;
 
